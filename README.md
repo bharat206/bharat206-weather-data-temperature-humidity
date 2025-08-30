@@ -1,3 +1,4 @@
+Q- Problem Statement You are tasked with building a small backend service that fetches time-series weather data (temperature & humidity) from the Open-Meteo API and generates both an Excel file and a PDF report with a chart.
 # Flask Weather Service
 
 A backend service that fetches hourly temperature & humidity from Open-Meteo for the past 2 days and provides:
